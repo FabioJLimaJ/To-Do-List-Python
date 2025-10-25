@@ -24,6 +24,3 @@ O objetivo é demonstrar como criar um **CRUD completo** (Create, Read, Update, 
 - [Redis](https://redis.io/) – banco de dados em memória  
 - [TailwindCSS](https://tailwindcss.com/) – para o design e responsividade  
 
-
-git clone https://github.com/seuusuario/todo-flask-redis.git
-cd todo-flask-redis
